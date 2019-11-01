@@ -9,7 +9,7 @@ $ composer require "yesapicn/yesapi-yii2-api-sdk"
 ## 使用
 参考以下示例，先初始化配置，再请求小白接口，最后处理接口结果。
 
-```
+```php
 <?php
 
 require_once '/vendor/autoload.php';
@@ -34,7 +34,7 @@ var_dump($apiRs);
 ```
 
 结果输出类似：
-```
+```php
 array(3) {
   ["ret"]=>
   int(200)
@@ -59,6 +59,6 @@ array(3) {
 
 QQ交流群：897815708
 
- 
+
 
 
