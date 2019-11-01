@@ -1,0 +1,18 @@
+{
+    "name": "yesapicn/yesapi-yii2-api-sdk",
+    "description": "面向Yii2框架的小白接口SDK包",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "dogstar",
+            "email": "chanzonghuang@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "YesApiCn\\Yii2ApiSDK\\": "src"
+        }
+    }
+}
